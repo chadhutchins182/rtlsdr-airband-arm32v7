@@ -36,3 +36,10 @@ jobs:
           build-args: |
             VERSION=v3.2.1
             PLATFORM=armv7-generic
+      - 
+        name: Docker Hub Description
+        uses: peter-evans/dockerhub-description@v2
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_PASSWORD }}
+          repository: chadhutchins182/rtlsdr-airband-arm32v7
