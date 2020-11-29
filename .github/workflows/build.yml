@@ -33,3 +33,6 @@ jobs:
           platforms: linux/arm32v7
           push: true
           tags: chadhutchins182/rtlsdr-airband-arm32v7:latest
+          build-args: |
+            VERSION=v3.2.1
+            PLATFORM=armv7-generic
