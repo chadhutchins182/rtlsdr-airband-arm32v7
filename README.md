@@ -13,15 +13,14 @@
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Getting Started/Usage](#getting_started)
+- [Contributing](#contributing)
 
 ## About <a name = "about"></a>
 
 This is a Raspberry Pi 4 (arm32v7) Docker container for [szpajder/RTLSDR-Airband](https://github.com/szpajder/RTLSDR-Airband) software.
 
-## Getting Started <a name = "getting_started"></a>
+## Getting Started and Usage <a name = "getting_started"></a>
 
 1. Pull Docker image 
 
@@ -56,3 +55,9 @@ services:
     networks:
       - rtlsdrnet
 ```
+
+## Contributing <a name = "contributing"></a>
+
+1. Fork
+2. Open Ticket for the feature or fix once you complete it
+3. Pull Request referencing the Open Ticket
