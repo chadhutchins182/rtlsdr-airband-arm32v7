@@ -3,9 +3,9 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/chadhutchins182/rtlsdr-airband-arm32v7/)
-![ci](https://github.com/chadhutchins182/rtlsdr-airband-arm32v7/workflows/ci/badge.svg?branch=main)
-![Docker Pulls](https://img.shields.io/docker/pulls/chadhutchins182/rtlsdr-airband-arm32v7)
-![Docker Image Size (latest)](https://img.shields.io/docker/image-size/chadhutchins182/rtlsdr-airband-arm32v7/latest)
+[![ci](https://github.com/chadhutchins182/rtlsdr-airband-arm32v7/workflows/ci/badge.svg?branch=main)](https://github.com/chadhutchins182/rtlsdr-airband-arm32v7/actions/workflows/build.yml)
+[![Docker Pulls](https://img.shields.io/docker/pulls/chadhutchins182/rtlsdr-airband-arm32v7)](https://hub.docker.com/r/chadhutchins182/rtlsdr-airband-arm32v7)
+[![Docker Image Size (latest)](https://img.shields.io/docker/image-size/chadhutchins182/rtlsdr-airband-arm32v7/latest)](https://hub.docker.com/r/chadhutchins182/rtlsdr-airband-arm32v7)
 [![GitHub Issues](https://img.shields.io/github/issues/chadhutchins182/rtlsdr-airband-arm32v7.svg)](https://github.com/chadhutchins182/rtlsdr-airband-arm32v7/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/chadhutchins182/rtlsdr-airband-arm32v7.svg)](https://github.com/chadhutchins182/rtlsdr-airband-arm32v7/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
